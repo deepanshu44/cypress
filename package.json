@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/deepanshu44/cypress/issues"
   },
-  "homepage": "https://github.com/deepanshu44/cypress#readme"
+  "homepage": "https://github.com/deepanshu44/cypress#readme",
+  "devDependencies": {
+    "eslint": "^7.25.0",
+    "eslint-plugin-cypress": "^2.11.3"
+  }
 }
